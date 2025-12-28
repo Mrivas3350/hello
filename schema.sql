@@ -1,3 +1,4 @@
+-- database: :memory:
 -- Schema for MFA db
 
 CREATE DATABASE IF NOT EXISTS `mfa`;
